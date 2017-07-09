@@ -41,6 +41,7 @@ if (stristr(PHP_OS, 'WIN')) {
 define('DIR_ROOT', $root_path);
 define('DIR_CORE', DIR_ROOT . '/core/');
 
+require('vendor/autoload.php');
 require_once(DIR_ROOT . '/system/config.php');
    
 // New Installation
