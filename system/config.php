@@ -9,9 +9,9 @@ define('ADMIN_PATH', 'admin_section_ca');
 define('DB_DRIVER', 'amysqli');
 
 //================LAPTOP=====================
- define('DB_HOSTNAME', '127.0.0.1:3306');
- define('DB_USERNAME', 'root');
- define('DB_PASSWORD', 'nbuser');
+// define('DB_HOSTNAME', '127.0.0.1:3306');
+// define('DB_USERNAME', 'root');
+// define('DB_PASSWORD', 'nbuser');
 //================END LAPTOP=================
 
 //================SEWTECH 2=================
@@ -20,13 +20,14 @@ define('DB_DRIVER', 'amysqli');
 //define('DB_PASSWORD', 'nbuser');
 //============END  EWTECH 2=================
 
-//================GO DADDY=================
-//define('DB_HOSTNAME', 'localhost');
-//define('DB_USERNAME', 'ca_sports_123');
-//define('DB_PASSWORD', '6uAyBFKPkhGK');
+//================HEROKU=================
+define('DB_HOSTNAME', 'localhost');
+define('DB_USERNAME', 'bb11a41c0bf4dd');
+define('DB_PASSWORD', '2e8608a3');
 //============END  GO DADDY=================
 
-define('DB_DATABASE', 'ca_sports');
+//define('DB_DATABASE', 'ca_sports');
+define('DB_DATABASE', 'heroku_9e9deb2cc55d7b3');
 define('DB_PREFIX', 'cas_');
 
 define('CACHE_DRIVER', 'file');
