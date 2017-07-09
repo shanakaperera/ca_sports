@@ -13,7 +13,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-<base href="<?php echo $base; ?>" />
+{*<base href="<?php echo $base; ?>" />*}
+<base href="https://shrouded-mountain-49014.herokuapp.com/" />
 
 <?php if ( is_file( DIR_RESOURCE . $icon ) ) {  ?>
 <link href="resources/<?php echo $icon; ?>" type="image/png" rel="icon" />

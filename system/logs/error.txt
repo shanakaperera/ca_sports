@@ -4011,3 +4011,33 @@
  Check setting of your store domain URL in System Settings . Loading default store configuration for now. in C:\xampp\htdocs\ca_sports\core\lib\config.php on line 210
 2017-07-09 16:08:52 - App Warning:  AbanteCart core v.1.2.8 Warning: Accessing store with non-configured or unknown domain ( localhost/ca_sports/ ).
  Check setting of your store domain URL in System Settings . Loading default store configuration for now. in C:\xampp\htdocs\ca_sports\core\lib\config.php on line 210
+2017-07-09 20:26:45 - App Warning:  AbanteCart core v.1.2.8 Warning: Accessing store with non-configured or unknown domain ( localhost/ca_sports/ ).
+ Check setting of your store domain URL in System Settings . Loading default store configuration for now. in C:\xampp\htdocs\ca_sports\core\lib\config.php on line 210
+2017-07-09 20:26:55 - App Warning:  AbanteCart core v.1.2.8 Warning: Accessing store with non-configured or unknown domain ( localhost/ca_sports/ ).
+ Check setting of your store domain URL in System Settings . Loading default store configuration for now. in C:\xampp\htdocs\ca_sports\core\lib\config.php on line 210
+2017-07-09 20:26:58 - App Warning:  AbanteCart core v.1.2.8 Warning: Accessing store with non-configured or unknown domain ( localhost/ca_sports/ ).
+ Check setting of your store domain URL in System Settings . Loading default store configuration for now. in C:\xampp\htdocs\ca_sports\core\lib\config.php on line 210
+2017-07-09 20:27:11 - App Warning:  AbanteCart core v.1.2.8 Warning: Accessing store with non-configured or unknown domain ( localhost/ca_sports/ ).
+ Check setting of your store domain URL in System Settings . Loading default store configuration for now. in C:\xampp\htdocs\ca_sports\core\lib\config.php on line 210
+2017-07-09 20:27:28 - App Warning:  AbanteCart core v.1.2.8 Warning: Accessing store with non-configured or unknown domain ( localhost/ca_sports/ ).
+ Check setting of your store domain URL in System Settings . Loading default store configuration for now. in C:\xampp\htdocs\ca_sports\core\lib\config.php on line 210
+2017-07-09 20:27:38 - App Warning:  AbanteCart core v.1.2.8 Warning: Accessing store with non-configured or unknown domain ( localhost/ca_sports/ ).
+ Check setting of your store domain URL in System Settings . Loading default store configuration for now. in C:\xampp\htdocs\ca_sports\core\lib\config.php on line 210
+2017-07-09 20:27:47 - App Warning:  AbanteCart core v.1.2.8 Warning: Accessing store with non-configured or unknown domain ( localhost/ca_sports/ ).
+ Check setting of your store domain URL in System Settings . Loading default store configuration for now. in C:\xampp\htdocs\ca_sports\core\lib\config.php on line 210
+2017-07-09 20:27:51 - App Warning:  AbanteCart core v.1.2.8 Warning: Accessing store with non-configured or unknown domain ( localhost/ca_sports/ ).
+ Check setting of your store domain URL in System Settings . Loading default store configuration for now. in C:\xampp\htdocs\ca_sports\core\lib\config.php on line 210
+2017-07-09 20:27:51 - App Warning:  AbanteCart core v.1.2.8 Warning: Accessing store with non-configured or unknown domain ( localhost/ca_sports/ ).
+ Check setting of your store domain URL in System Settings . Loading default store configuration for now. in C:\xampp\htdocs\ca_sports\core\lib\config.php on line 210
+2017-07-09 20:27:51 - App Warning:  AbanteCart core v.1.2.8 Warning: Accessing store with non-configured or unknown domain ( localhost/ca_sports/ ).
+ Check setting of your store domain URL in System Settings . Loading default store configuration for now. in C:\xampp\htdocs\ca_sports\core\lib\config.php on line 210
+2017-07-09 20:27:51 - App Warning:  AbanteCart core v.1.2.8 Warning: Accessing store with non-configured or unknown domain ( localhost/ca_sports/ ).
+ Check setting of your store domain URL in System Settings . Loading default store configuration for now. in C:\xampp\htdocs\ca_sports\core\lib\config.php on line 210
+2017-07-09 20:27:52 - App Warning:  AbanteCart core v.1.2.8 Warning: Accessing store with non-configured or unknown domain ( localhost/ca_sports/ ).
+ Check setting of your store domain URL in System Settings . Loading default store configuration for now. in C:\xampp\htdocs\ca_sports\core\lib\config.php on line 210
+2017-07-09 20:27:55 - App Warning:  AbanteCart core v.1.2.8 Warning: Accessing store with non-configured or unknown domain ( localhost/ca_sports/ ).
+ Check setting of your store domain URL in System Settings . Loading default store configuration for now. in C:\xampp\htdocs\ca_sports\core\lib\config.php on line 210
+2017-07-09 20:27:56 - App Warning:  AbanteCart core v.1.2.8 Warning: Accessing store with non-configured or unknown domain ( localhost/ca_sports/ ).
+ Check setting of your store domain URL in System Settings . Loading default store configuration for now. in C:\xampp\htdocs\ca_sports\core\lib\config.php on line 210
+2017-07-09 20:27:57 - App Warning:  AbanteCart core v.1.2.8 Warning: Accessing store with non-configured or unknown domain ( localhost/ca_sports/ ).
+ Check setting of your store domain URL in System Settings . Loading default store configuration for now. in C:\xampp\htdocs\ca_sports\core\lib\config.php on line 210
