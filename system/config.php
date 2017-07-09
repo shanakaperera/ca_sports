@@ -21,7 +21,7 @@ define('DB_DRIVER', 'amysqli');
 //============END  EWTECH 2=================
 
 //================HEROKU=================
-define('DB_HOSTNAME', 'localhost');
+define('DB_HOSTNAME', 'us-cdbr-iron-east-03.cleardb.net');
 define('DB_USERNAME', 'bb11a41c0bf4dd');
 define('DB_PASSWORD', '2e8608a3');
 //============END  GO DADDY=================
