@@ -1,0 +1,3 @@
+<?php die('Restricted Access!'); ?>#AbanteCart#a:1:{i:1;a:12:{s:20:"block_description_id";s:2:"24";s:15:"custom_block_id";s:2:"13";s:11:"language_id";s:1:"1";s:13:"block_wrapper";s:1:"0";s:12:"block_framed";s:1:"1";s:4:"name";s:8:"About Us";s:5:"title";s:8:"About Us";s:11:"description";s:0:"";s:7:"content";s:43:"&lt;p&gt;About your site....
+	&lt;/p&gt;
+";s:10:"date_added";s:19:"2015-06-12 09:56:24";s:13:"date_modified";s:19:"2016-08-31 11:03:51";s:6:"status";s:1:"1";}}
