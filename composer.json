@@ -1,6 +1,7 @@
 {
   "require": {
-    "ext-mysql": "*"
+    "ext-mysql": "*",
+    "symfony/polyfill-mbstring": "^1.4"
   },
   "require-dev": {
     "heroku/heroku-buildpack-php": "*"
