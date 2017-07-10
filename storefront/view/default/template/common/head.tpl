@@ -50,10 +50,10 @@ if($faster_browser_rendering == true) {
 	<style><?php echo $this->LoadMinifyCSS('/stylesheet/fonts.google.css'); ?></style>
 	<style><?php echo $this->LoadMinifyCSS('/stylesheet/style.css'); ?></style>	
 <?php } else { ?>
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.6.3/flexslider.min.css" />
+	<link href="<?php echo $this->templateResource('/stylesheet/bootstrap.min.css'); ?>" rel="stylesheet" type='text/css' />
+	<link href="<?php echo $this->templateResource('/stylesheet/flexslider.css'); ?>" rel="stylesheet" type='text/css' />
 	<link href="<?php echo $this->templateResource('/stylesheet/onebyone.css'); ?>" rel="stylesheet" type='text/css' />
-    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+	<link href="<?php echo $this->templateResource('/stylesheet/font-awesome.min.css'); ?>" rel="stylesheet" type='text/css' />
 	<link href="<?php echo $this->templateResource('/stylesheet/fonts.google.css'); ?>" rel="stylesheet" type='text/css' />
 	<link href="<?php echo $this->templateResource('/stylesheet/style.css'); ?>" rel="stylesheet" type='text/css' />
 <?php } ?>
@@ -84,8 +84,8 @@ if($faster_browser_rendering == true) {
 	<script type="text/javascript"><?php echo $this->PreloadJS('/javascript/jquery-1.11.0.min.js'); ?></script>
 	<script type="text/javascript"><?php echo $this->PreloadJS('/javascript/jquery-migrate-1.2.1.min.js'); ?></script>
 <?php } else { ?>
-    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+	<script type="text/javascript" src="<?php echo $this->templateResource('/javascript/jquery-1.11.0.min.js'); ?>"></script>
+	<script type="text/javascript" src="<?php echo $this->templateResource('/javascript/jquery-migrate-1.2.1.min.js');?>"></script>
 <?php } ?>
 
 <?php foreach ($scripts as $script) { ?>
