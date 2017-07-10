@@ -20,14 +20,14 @@ define('DB_DRIVER', 'amysqli');
 //define('DB_PASSWORD', 'nbuser');
 //============END  EWTECH 2=================
 
-//================HEROKU=================
-define('DB_HOSTNAME', 'us-cdbr-iron-east-03.cleardb.net');
-define('DB_USERNAME', 'bb11a41c0bf4dd');
-define('DB_PASSWORD', '2e8608a3');
-//============END  GO DADDY=================
+//================FORT RABBIT=================
+define('DB_HOSTNAME', 'custom-ygi3.mysql.us1.frbit.com');
+define('DB_USERNAME', 'custom-ygi3');
+define('DB_PASSWORD', 'R91HGfk-It3sbiQ7nMtn5n-s');
+//============END  FORT RABBIT=================
 
 //define('DB_DATABASE', 'ca_sports');
-define('DB_DATABASE', 'heroku_9e9deb2cc55d7b3');
+define('DB_DATABASE', 'custom-ygi3');
 define('DB_PREFIX', 'cas_');
 
 define('CACHE_DRIVER', 'file');
